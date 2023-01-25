@@ -119,4 +119,5 @@ and finally we will have
 <center>
   <img src="media/cfar3.bmp" width="779" height="414" />
 </center>
- `Tr = 10, Td = 8, Gr = 1, Gd = 1` 
+
+with  `Tr = 10, Td = 8, Gr = 1, Gd = 1` .
